@@ -13,7 +13,7 @@ int main(int argc, char** argv){
     glutInitDisplayMode(GLUT_DEPTH | GLUT_SINGLE | GLUT_RGBA);
     glutInitWindowPosition(100, 100);
     glutInitWindowSize(640, 480);
-    glutCreateWindow(",sjsngsnkç");
+    glutCreateWindow("w");
     
     inicio();
     
